@@ -1,7 +1,7 @@
 Sabari729090.github.io
 =====================
 
-***This is a copied and modified code From Jonathan McGlone (http://jmcglone.com).I'm A beginer And I'm taking efforts to get some knowledge in web pages(http://hankquinlan.github.io). I used this guide to develop this page (http://jmcglone.com/guides/github-pages).***
+***This is a copied and modified code From Jonathan McGlone ( http://jmcglone.com ). I'm A beginer And I'm taking efforts to get some knowledge in web pages ( http://hankquinlan.github.io ). I used this guide to develop this page ( http://jmcglone.com/guides/github-pages ).***
 
 
 
